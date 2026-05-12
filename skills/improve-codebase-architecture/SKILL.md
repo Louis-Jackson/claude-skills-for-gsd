@@ -3,6 +3,8 @@ name: improve-codebase-architecture
 description: Find deepening opportunities in a codebase, informed by the domain language in .planning/CONTEXT.md and the decisions in .planning/adrs/. Use when the user wants to improve architecture, find refactoring opportunities, consolidate tightly-coupled modules, or make a codebase more testable and AI-navigable.
 ---
 
+> 所有面向用户的输出使用**简体中文**。技术术语（代码、路径、CLI 命令、专有名词）保持英文。
+
 # Improve Codebase Architecture
 
 Surface architectural friction and propose **deepening opportunities** — refactors that turn shallow modules into deep ones. The aim is testability and AI-navigability.

@@ -3,6 +3,9 @@
 > Customise the placeholders below. The grill-fast / standing-indices sections
 > are project-agnostic and ready to use as-is.
 
+# Language
+Always respond in zh-CN. Use zh-CN for all explanations, comments, and communications with the user. Technical terms and code identifiers should remain in their original form.
+
 ## Workflow: grill-fast over GSD discuss/research
 
 For phases with architectural or naming decisions, **prefer the grill-fast path**:

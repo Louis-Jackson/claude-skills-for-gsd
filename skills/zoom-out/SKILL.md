@@ -4,6 +4,8 @@ description: Tell the agent to zoom out and give broader context or a higher-lev
 disable-model-invocation: true
 ---
 
+> 所有面向用户的输出使用**简体中文**。技术术语（代码、路径、CLI 命令、专有名词）保持英文。
+
 I don't know this area of code well. Go up a layer of abstraction. Give me a map of all the relevant modules and callers, using the project's domain glossary vocabulary (`.planning/CONTEXT.md` if it exists).
 
 **Start from `.planning/codebase/STRUCTURE.md` and `.planning/graphs/GRAPH_REPORT.md` if they exist** — those are pre-computed maps. Walk the codebase fresh only when the map is missing or stale.

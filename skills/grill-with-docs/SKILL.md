@@ -3,6 +3,8 @@ name: grill-with-docs
 description: Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (.planning/CONTEXT.md, .planning/adrs/) inline as decisions crystallise. Use when user wants to stress-test a plan against their project's language and documented decisions. Output is a markdown decision summary suitable to feed `/gsd-plan-phase --prd`.
 ---
 
+> 所有面向用户的输出使用**简体中文**。技术术语（代码、路径、CLI 命令、专有名词）保持英文。
+
 <what-to-do>
 
 Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one-by-one. For each question, provide your recommended answer.
