@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install GSD-compatible mattpocock-derived skills into the current project.
+# Install curated grill + GSD skills (16 total) into the current project.
 #
 # Usage:
 #   cd ~/MyProject
